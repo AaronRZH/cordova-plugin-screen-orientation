@@ -1,0 +1,27 @@
+{
+    "name": "cordova-plugin-screen-orientation",
+    "version": "1.0.0",
+    "description": "Cordova Screen Orientation Plugin",
+    "cordova": {
+        "platforms": [
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AaronRZH/cordova-plugin-screen-orientation.git"
+    },
+    "keywords": [
+        "cordova",
+        "screen orientation",
+        "cordova-android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "author": "AaronRzh",
+    "license": "Apache-2.0"
+}
